@@ -10,7 +10,7 @@ This is just a simple WebApp with the Basic Login, Regsiter and Logout with Form
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/daniel-devi/Simple-Authentication-With-Django-and-React.git
 ```
 
 # Setup Frontend
