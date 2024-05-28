@@ -1,0 +1,15 @@
+# For Backend DJANGO
+install Django
+install Django Restframework
+install Django Restframework Simple JWT
+install Django Corsheaders
+install Django Jazzmin
+install python Dotenv
+install Pillow
+
+# For Frontend REACT
+npm Install axios
+npm Install react router dom
+npm Install material ui
+npm install jwt-decode
+npm install MaterialUI core / MaterialUI icons
