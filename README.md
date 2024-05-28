@@ -1,6 +1,6 @@
 # Simple Authentication With React and Django
 
-This is just a simple WebApp with the Basic Login, Regsiter and Logout with Form Validation, built using Django for the Backend And React for the Frontend (MaterialUI Used For Styling)
+This is just a simple WebApp with the Basic Login, Register and Logout with Form Validation, built using Django for the Backend And React for the Frontend (MaterialUI Used For Styling)
 
 
 
